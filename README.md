@@ -93,6 +93,6 @@ The analysis revealed key predictors of stroke, such as average glucose level, L
 - [Interpretable Machine Learning: Logistic Regression](https://christophm.github.io/interpretable-ml-book/logistic.html)
 - [Understanding Logistic Regression in Python](https://www.datacamp.com/tutorial/understanding-logistic-regression-python)
 - [AutoML Capabilities of H2O Library](https://www.kaggle.com/code/paradiselost/tutorial-automl-capabilities-of-h2o-library)
-- [AutoML Capabilities of H2O Library (Second Link)](https://www.kaggle.com/code/paradiselost/tutorial-automl-capabilities-of-h2o-library)
+- [AutoML Capabilities of H2O Library (Tutorial)](https://www.kaggle.com/code/paradiselost/tutorial-automl-capabilities-of-h2o-library)
 - [What is Multicollinearity?](https://www.analyticsvidhya.com/blog/2020/03/what-is-multicollinearity/)
 - [Scikit-learn RandomForestClassifier Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
